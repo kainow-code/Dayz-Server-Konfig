@@ -1,1 +1,1 @@
-# Dayz-spawn
+# DayZ-Server-Konfig
